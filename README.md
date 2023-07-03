@@ -1,4 +1,5 @@
 # PINAR
+## Please read the Pinar.pdf file before doing anything.
 
 PINAR means Fountain and is a probabilistic natural catastrophe impact model, that also calculates averted damage (benefit) thanks to adaptation measures of any kind (from grey to green infrastructure, behavioural, etc.).
 
